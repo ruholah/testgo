@@ -1,0 +1,2 @@
+# testgo
+testing go code
